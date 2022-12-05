@@ -33,9 +33,8 @@ export default function SobreMim() {
             Após uma dificil decisão optei por estudar na FEI, lá me aprofundei mais no desenvolvimento web e decidi que era essa área a que eu gostaria me aprimorar e ganhar maestria. Porém para me desenvolver mais percebi que seria necessário procurar um bom estágio na área
         </p>
         <p className={styles.paragrafo} >
-            Consegui a minha primeira entrevista na Agile Inc e consegui passar, agradeço aos meus pais, e aos empresa pela aposta que fizeram em mim. E pretendo evoluir muito mais profissionalmente, pessoalmente e espiritualmente daqui pra frente!
+            Consegui a minha primeira entrevista na Agile Inc e consegui passar, agradeço aos meus pais, e a empresa pela aposta que fizeram em mim. E pretendo evoluir muito mais profissionalmente, pessoalmente e espiritualmente daqui pra frente!
         </p>
-
     </PostModelo>
   )
 }
